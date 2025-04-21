@@ -40,6 +40,6 @@ Portafolio
 
 ## 📬 Contáctame
 
-- 📧 **Correo:** samuel.tu.email@algo.com *(o lo que quieras poner)*
+- 📧 **Correo:**
 - 🌐 [GitHub](https://github.com/TioSam77)
-- 💬 Discord (si quieres dejarlo)
+- 💬 Discord
