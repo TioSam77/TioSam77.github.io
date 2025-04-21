@@ -1,5 +1,8 @@
 # TioSam77
-Portafolio
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=¡Bienvenido+a+mi+portafolio!;Soy+Samuel+de+la+FES+Acatlán;Apasionado+por+la+IA+y+la+programación" />
+</p>
+
 <h1 align="center">👋 Hola, soy Samuel</h1>
 
 <p align="center">
