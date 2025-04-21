@@ -1,4 +1,4 @@
-# TioSam77.github.io
+# TioSam77
 Portafolio
 <h1 align="center">👋 Hola, soy Samuel</h1>
 
