@@ -43,7 +43,7 @@
 
 ## 📬 Contáctame
 
-- 📧 **Correo:** (puedes ponerlo si quieres)
+- 📧 **Correo:**
 - 🌐 [GitHub](https://github.com/TioSam77)
 - 💬 Discord
 
