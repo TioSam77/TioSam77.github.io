@@ -43,8 +43,13 @@
 
 ## 📬 Contáctame
 
-- 📧 **Correo:** *(Aquí puedes agregar tu correo si quieres)*
+- 📧 **Correo:** (puedes ponerlo si quieres)
 - 🌐 [GitHub](https://github.com/TioSam77)
-- 💬 Discord *(Opcional: agrega tu usuario si gustas)*
+- 💬 Discord
 
 ---
+<p align="center">
+  Hecho con ❤️ y mucha pasión por el conocimiento.<br>
+  <strong>Samuel Eduardo Mariche Wajsfeld</strong> — FES Acatlán, UNAM 🇲🇽
+</p>
+
