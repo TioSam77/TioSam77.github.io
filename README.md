@@ -16,9 +16,9 @@
 ## 🚀 Proyectos Destacados
 
 | Proyecto | Descripción | Tecnologías |
-|---------|-------------|-------------|
-| [Simulación Hospitalaria](https://github.com/TioSam77/Simulacion-hospitalaria) | Sistema que modela el flujo de pacientes en un hospital aplicando paradigmas distribuidos. | Python, threading, multiprocessing, asyncio |
-| En construcción... | ¡Más proyectos pronto! | 😼 |
+|:---------|:------------|:------------|
+| [Simulación Hospitalaria](https://github.com/TioSam77/Simulacion-hospitalaria) | Sistema que modela el flujo de pacientes en un hospital aplicando paradigmas distribuidos (concurrencia, paralelismo, asincronía). | Python, threading, multiprocessing, asyncio |
+| [Simulación de Movilidad Urbana](https://github.com/TioSam77/Simulacion-Movilidad-Spark) | Análisis de viajes urbanos utilizando grandes volúmenes de datos con PySpark, Pandas y Matplotlib. | PySpark, Pandas, Matplotlib, Python |
 
 ---
 
@@ -43,6 +43,8 @@
 
 ## 📬 Contáctame
 
-- 📧 **Correo:**
+- 📧 **Correo:** *(Aquí puedes agregar tu correo si quieres)*
 - 🌐 [GitHub](https://github.com/TioSam77)
-- 💬 Discord
+- 💬 Discord *(Opcional: agrega tu usuario si gustas)*
+
+---
